@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "420811336491",
+    "firebase_url": "https://generic-notifications-c241f.firebaseio.com",
+    "project_id": "generic-notifications-c241f",
+    "storage_bucket": "generic-notifications-c241f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420811336491:android:a8a48aa837a2833d60b36e",
+        "android_client_info": {
+          "package_name": "keka.com.notification_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420811336491-mfim1hbsmthiumngddjs2bcqul99ffvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "keka.com.notification_example",
+            "certificate_hash": "050cb05120ea4fcd1a8faa50230fcd01de335318"
+          }
+        },
+        {
+          "client_id": "420811336491-qc2161n4d2or43teub3f7cikd3u7pm5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYjfFBB5z8YI3cE-kdTCa-EWIc_WuOffQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420811336491-qc2161n4d2or43teub3f7cikd3u7pm5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
